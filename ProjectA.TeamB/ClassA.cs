@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectA.TeamB
 {
-    public class ClassB
+    public class ClassA
     {
         public static void Print()
         {
