@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33801.447
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BB4876E0-5640-4BAD-AD35-0CD74D4DBA36}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project", "ConsoleApp1\Project.csproj", "{BB4876E0-5640-4BAD-AD35-0CD74D4DBA36}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectA.TeamA", "ProjectA.TeamA\ProjectA.TeamA.csproj", "{DACDC234-E301-407E-B419-1035355E6452}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{E945D24B-FE2F-434A-8EAE-8974F525AC50}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{FC94976C-7666-458E-87BF-8B54215D0CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{87A0F6F1-9E54-444B-81BA-1CD217B4A271}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FC94976C-7666-458E-87BF-8B54215D0CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC94976C-7666-458E-87BF-8B54215D0CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC94976C-7666-458E-87BF-8B54215D0CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A0F6F1-9E54-444B-81BA-1CD217B4A271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A0F6F1-9E54-444B-81BA-1CD217B4A271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A0F6F1-9E54-444B-81BA-1CD217B4A271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A0F6F1-9E54-444B-81BA-1CD217B4A271}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
